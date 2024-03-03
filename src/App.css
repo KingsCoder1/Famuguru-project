@@ -1,0 +1,10 @@
+.firstdiv {
+    text-align: center;
+    color: blue;
+}
+
+.firstdiv button {
+    border: 10px;
+    color: red;
+    background: black;
+}
