@@ -59,7 +59,11 @@ const Intro = () => {
               </div>
             </span>
 
-            <img src={logo} alt="Logo" className=" lg:w-1/4 sm:w-1/2 h-3/4" />
+            <img
+              src={logo}
+              alt="Logo"
+              className=" lg:w-1/4 sm:w-1/2 h-3/4 w-[-5]"
+            />
           </div>
         </div>
       </div>
