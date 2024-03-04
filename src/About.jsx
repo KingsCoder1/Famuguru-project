@@ -20,7 +20,7 @@ const About = () => {
             Meet the founder of Famuguru Fashion World
             <br />
             Abah O. Blessing
-            <p>
+            <p className=" text-sm">
               A talented and certified fashion designer whose concern is to make
               you look good in gorgeous dresses made and designed from our
               store.

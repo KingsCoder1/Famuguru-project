@@ -27,8 +27,8 @@ const Intro = () => {
         />
 
         <div>
-          <div className=" flex h-screen backdrop-blur-sm justify-center items-center text-center place-content-center">
-            <span className=" justify-center items-center text-center text-yellow-300 backdrop-blur-sm lg:w-1/4 md:w-1/4">
+          <div className=" flex h-screen backdrop-blur-sm justify-center items-center text-center place-content-center px-2">
+            <span className=" justify-center items-center text-center text-yellow-400 backdrop-blur-sm lg:w-1/4 md:w-1/4">
               <p className=" justify-center text-center">
                 <span className="text-3xl font-Dancing font-thin">B</span>ring
                 your fashion fantasies to reality at{" "}
@@ -38,9 +38,7 @@ const Intro = () => {
               </p>
               <br />
               <p className=" justify-center text-center">
-                We offer a variety of services that would sooth your taste
-                ranging from unisex traditional attires to gadgets and
-                accessories at give away prices.
+                Feed your eyes with unique designs from our store
               </p>
 
               <div className="pl-2 my-4 bg-gradient-to-l from-purple-800 to-purple-500 justify-between items-center w-16 ml-2">
@@ -61,7 +59,7 @@ const Intro = () => {
               </div>
             </span>
 
-            <img src={logo} alt="Logo" className=" lg:w-1/4 h-3/4" />
+            <img src={logo} alt="Logo" className=" lg:w-1/4 sm:w-1/2 h-3/4" />
           </div>
         </div>
       </div>

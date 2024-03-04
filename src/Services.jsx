@@ -181,7 +181,7 @@ const Services = () => {
   return (
     <div
       name="services"
-      className=" px-20 justify-items-center items-center bg-gradient-to-b from-gray-800 to-black"
+      className=" px-3 justify-items-center items-center bg-gradient-to-b from-gray-800 to-black"
     >
       <header className=" justify-center text-2xl text-yellow-200 text-center catitalize rounded-0.5xl">
         <span className=" bg-gradient-to-l from-purple-950 to-purple-600">
@@ -189,7 +189,7 @@ const Services = () => {
         </span>
       </header>
       <div className=" lg:grid md:grid grid-cols-2 grid-rows-2 justify-center gap-3">
-        <div className=" my-2 text-bold shadow-lg p-6 mb-6 backdrop-blur-lg ring-1 ring-yellow-200 px-10 py-5 justify-center items-center lg:w-full">
+        <div className=" my-2 text-bold shadow-lg p-6 mb-6 backdrop-blur-lg ring-1 ring-yellow-200 px-10 py-5 justify-center items-center w-full">
           <span className=" justify-center text-center text-gray-400 text-1xl">
             <header>Tailoring</header>
             <span className=" bg-gray-800 text-1xl">
