@@ -27,7 +27,7 @@ const Intro = () => {
         />
 
         <div>
-          <div className=" flex h-screen backdrop-blur-sm justify-center items-center text-center place-content-center px-2">
+          <div className=" flex h-screen backdrop-blur-sm justify-center items-center text-center place-content-center pl-5">
             <span className=" justify-center items-center text-center text-yellow-400 backdrop-blur-sm lg:w-1/4 md:w-1/4">
               <p className=" justify-center text-center">
                 <span className="text-3xl font-Dancing font-thin">B</span>ring
